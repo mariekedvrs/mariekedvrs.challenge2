@@ -1,2 +1,2 @@
-# mariekedvrs.github.io
+# http://mariekedvrs.github.io
 challenge 2
